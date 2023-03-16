@@ -1,0 +1,28 @@
+html,
+body,
+#root,
+.light,
+.green-color,
+.blue-color,
+.red-color {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.div-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.light {
+    background: white;
+}
+.blue-color {
+    background: blue;
+}
+.green-color {
+    background: green;
+}
+.red-color {
+    background: red;
+}
